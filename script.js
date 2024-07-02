@@ -118,6 +118,6 @@ submitButton.addEventListener("click", (e) => {
 // Initial load
 getWeather("Mumbai");
 getWeather("Bangalore");
-getWeather("Srinagar");
+getWeather("Jaipur");
 getWeather("Gandhinagar");
 getHeadWeather("Delhi");
